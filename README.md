@@ -176,7 +176,8 @@ body {
 ```
 
 ## OUTPUT:
-<img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/8d97705d-9f5d-4d5b-890e-ae570ce3a7fd" />
+<img width="1920" height="1134" alt="ex10-img1" src="https://github.com/user-attachments/assets/77db6392-7245-46b8-a4e4-17a6c84090a8" />
+
 
 
 
